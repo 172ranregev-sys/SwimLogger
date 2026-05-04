@@ -1,0 +1,86 @@
+[
+  {
+    "id": 2,
+    "date": "2026-04-27",
+    "warmup": "100 libo\n200 N cube po 50 (25 M + 25 K) +pl\n4x50 hypox (9/11/9/11) +kal",
+    "mainSet": "400 (50K + 25 scull + 25K) +pl+sn+maly pac. [45 mezi]\n2x300 (50TC + 100 K) [30 mezi]\n3x200 (N/R/Cely) (25 V3 + 75 V2) [30 mezi]\n4x100 (50 V3 + 50 V2) @1:45\n6x50 K V4 (2x +pl+houba+pac 4x +pl) @1",
+    "recovery": "200 libo",
+    "totalDistance": 3000,
+    "difficultyRating": 5,
+    "effortRating": 6,
+    "preparationRating": 6,
+    "notes": "day after Zapdocesy Pohar.\neasy aerobic session"
+  },
+  {
+    "id": 3,
+    "date": "2026-04-28",
+    "warmup": "6x50 (2.K 2.N 2.hypox 11) [20 mezi]",
+    "mainSet": "5x100 (1.K V3  2.PZ TC  3.K V3  4.PZ V2  5.K V3) @1:45\n4x200 (1+3. KN 2+4. KR) (50 V3 + 50 V2) [30 mezi]\n3x300 (30 V4 + 20 V2) +kal [60 mezi]\n100 libo\n2x400 (1. 30 TC + 20 K V2   2. 25 V2 + 25 V4) [30 mezi]\n1x500 K V3 +pl+maly pac.+sn ",
+    "recovery": "200 libo",
+    "totalDistance": 4100,
+    "difficultyRating": 8,
+    "effortRating": 8,
+    "preparationRating": 7,
+    "notes": "lactate accumulation on the 3x300 +kal.\nlonger aerobic session"
+  },
+  {
+    "id": 4,
+    "date": "2026-04-29",
+    "warmup": "300 (100 K + 50 ZN)\n100 TC +pl\n4x50 hypox (9/11/9/11) +kal",
+    "mainSet": "4 sety:\n   2x50 N V5 (sit / bez / kal / pl) @1:30 + @2\n   100 V4 (max. 1:05 !!! ) (*posledni set 2x50 V5 @2)\n   200 K/KN V1-2 +pl\n\n8x50 (30 KN streamline V4 + 20 K V5) bez sn @1:30",
+    "recovery": "6x50 K V2 @1",
+    "totalDistance": 2900,
+    "difficultyRating": 10,
+    "effortRating": 10,
+    "preparationRating": 7,
+    "notes": "went 59 high/58 high/59 high/27,27\n"
+  },
+  {
+    "id": 5,
+    "date": "2026-04-30",
+    "warmup": "10x100 [20 mezi]\n   4 - K DPS\n   3 - 25 scull + 25 K pest\n   2 - KN\n   1 - PZ\n\n8x50 hypox (9/30UW/11/30UW) +kal+pl",
+    "mainSet": "10x50 (1.zpusob V4 2. K V2) @1:15\n8x100 K +pl+pac @1:30\n6x50 N zposub V5 (2-bez 2-kal 2-bez) @1:15\n4x100 prvni a posledni 20m zpusob V6 zbytek K hypox 5 @2:15\n2x50 R zpusob do sily +pac+sn @1:30",
+    "recovery": "6x50 K V2 @:50",
+    "totalDistance": 3800,
+    "difficultyRating": 7,
+    "effortRating": 8,
+    "preparationRating": 8,
+    "notes": "easier aerobic session.\ndidnt swim the 2x50 R due to lack of time.\nCramps during the 6x50 N, but continued"
+  },
+  {
+    "id": 6,
+    "date": "2026-05-01",
+    "warmup": "100K\n100N +pl\n2x50K V3\n3x50 hypox +pl\n50 libo",
+    "mainSet": "16x50 @:50\n   3 - V2\n   1 - V5\n\n100 libo\n\n12x50 @:55\n   2 - V2\n   1 - V5\n\n100 libo\n\n8x50 @1\n   1 - V2\n   1 - V5\n\n100 libo\n\n4x50 @1:05\n   vse V5",
+    "recovery": "400 libo",
+    "totalDistance": 3200,
+    "difficultyRating": 10,
+    "effortRating": 10,
+    "preparationRating": 9,
+    "notes": "very hard session.\ncramps during the 8x50, went 2x V5 R and then back to normal."
+  },
+  {
+    "id": 7,
+    "date": "2026-05-03",
+    "warmup": "400 libo",
+    "mainSet": "3x Start + UW\n3x Start + 15 V6\n\n2x200 (50 TC + 50 V2)\n12x50 @1\n   2- N za 50\"\n   2- R za 35\"\n   2- cely za 30\"\n\n2 sety:\n   Start + 20 V5 + 80 aerobne\n   100 aerobne za 1:15\"",
+    "recovery": "200 libo",
+    "totalDistance": 2150,
+    "difficultyRating": 6,
+    "effortRating": 7,
+    "preparationRating": 9,
+    "notes": "little aerobic with starts work."
+  },
+  {
+    "id": 8,
+    "date": "2026-05-04",
+    "warmup": "100K\n100N +pl\n2x50K V3\n3x50 hypox +pl\n50 libo",
+    "mainSet": "10x50 @:50\n100 libo\n10x50 +pl @:45\n100 libo\n10x50 +pl +pac @:40\n100 libo\n10x50 @:50",
+    "recovery": "200 libo",
+    "totalDistance": 3000,
+    "difficultyRating": 8,
+    "effortRating": 9,
+    "preparationRating": 10,
+    "notes": "Single session today (no gym, went yesterday).\nAerobic threshold and lactate tolerance on the +pl+pac @:45 "
+  }
+]
